@@ -1,0 +1,9 @@
+/*This file is for your custom css.  All yours*/
+.gallery {
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+.hidden {
+  display: none;
+}
